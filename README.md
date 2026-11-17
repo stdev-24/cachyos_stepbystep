@@ -77,11 +77,3 @@ Urutan konfigurasi yang akan kita lakukan:
 6. Pasang Quickshell dan mulai buat shell sendiri dengan QML.
 7. Konfigurasi Snapper dan integrasi snapshot dengan Limine.
 8. Pasang VS Code, Node.js, dan pnpm untuk pengembangan Next.js.
-
-## **Sebelum kita mulai, saya perlu memastikan satu hal**
-
-**SSD M.2 256 GB yang akan dipakai itu merek dan model apa?** Apakah sudah dibeli atau belum?
-
-Ini penting karena kompatibilitas M.2 SATA dan NVMe pada seri laptopmu belum bisa dipastikan hanya dari nama Aspire A315-35.
-
-Setelah itu, kita bisa mulai dari langkah pertama: mengecek SSD, menyiapkan flashdisk installer, lalu saya pandu proses instalasi satu per satu. Jangan buru-buru mengubah partisi Fedora lama.
